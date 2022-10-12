@@ -15,4 +15,4 @@ function solve(com, act){
     return count;
 }
 
-console.log(solve(comedians,actors))
+console.log(solve(comedians,actors));
