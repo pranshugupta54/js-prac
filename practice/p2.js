@@ -1,5 +1,4 @@
-let shoes = [0,6,0]
-
+let shoes = [0,7,0,1]
 function solve(shoes){
     let sum = 0;
     let n = shoes.length;
